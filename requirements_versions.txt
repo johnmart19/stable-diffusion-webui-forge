@@ -41,3 +41,6 @@ tqdm==4.66.1
 peft==0.13.2
 pydantic==2.9.2
 huggingface-hub==0.26.2
+joblib==1.5.2
+insightface==0.7.3
+opencv-python-headless==4.10.0.84
